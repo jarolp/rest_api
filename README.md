@@ -100,6 +100,8 @@ Zadaniem API będzie zapis, odczyt i usuwanie imienia i nazwiska z bazy SQLlite.
 
 5. Inny link niż te powyżej, pojawi się komunikat "Nieprawidłowy link"
  
+#### Lokalizacja pliku SQLite
+Baza SQLite utworzy się w lokalizacji /application/public/sqliteDB
 
 ### Jak testować?
 <p> W przeglądarce zainstalować wtyczkę np: RESTman lub POSTman.</p>
